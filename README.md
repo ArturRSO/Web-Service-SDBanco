@@ -1,4 +1,4 @@
 # Web-Service-SDBanco
 Exemplo de Web Service em Java
-- Consome as classes do repositório "Biblioteca-de-classes-SDBanco"
-- Padrão SOA
+- Consome as classes da "sd-bank-class-library"
+- SOAP
